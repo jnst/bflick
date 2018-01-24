@@ -1,0 +1,2 @@
+# bflick
+bitFlyer listing checker
